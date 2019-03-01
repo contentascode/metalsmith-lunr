@@ -9,7 +9,7 @@
   "author": "CMClay",
   "license": "MIT",
   "dependencies": {
-    "lunr": "^2.3.5"
+    "lunr": "^2.3.6"
   },
   "devDependencies": {
     "metalsmith": "^2.3.0",
